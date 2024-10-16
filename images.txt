@@ -4,3 +4,4 @@ redis
 mysql
 postgres
 mongo
+openjdk:11
