@@ -5,5 +5,4 @@ mysql
 postgres
 mongo
 openjdk:11
-zfile
-jc21/nginx-proxy-manager
+jdk:8
