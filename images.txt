@@ -4,6 +4,7 @@ redis
 mysql
 postgres
 mongo
+openjdk:8
 openjdk:11
 influxdb:2
 bolingcavalry/opencv4.5.3:0.0.1
