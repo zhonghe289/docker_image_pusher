@@ -11,6 +11,5 @@ bolingcavalry/opencv4.5.3:0.0.1
 rancher/rancher:v2.5.7
 rancher/rancher-agent:v2.5.7
 thankwhite/vastbase_g100:2.2.15
-mongodb-community-server:7.0.6-ubi9
-nacos/nacos-server:v2.4.3
-sonatype/nexus3:latest
+apache/shenyu-admin
+apache/shenyu-bootstrap
