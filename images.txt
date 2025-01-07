@@ -8,6 +8,7 @@ mongo:4.4
 openjdk:8
 openjdk:11
 influxdb:2
+nacos/nacos-server
 prom/prometheus
 grafana/grafana
 bolingcavalry/opencv4.5.3:0.0.1
