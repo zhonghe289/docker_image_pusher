@@ -18,3 +18,4 @@ rancher/rancher-agent:v2.5.7
 thankwhite/vastbase_g100:2.2.15
 apache/shenyu-admin
 apache/shenyu-bootstrap
+postgis/postgis
