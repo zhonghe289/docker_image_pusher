@@ -19,3 +19,4 @@ thankwhite/vastbase_g100:2.2.15
 apache/shenyu-admin
 apache/shenyu-bootstrap
 postgis/postgis
+milvusdb/milvus:v2.5.6
