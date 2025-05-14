@@ -20,4 +20,4 @@ apache/shenyu-admin
 apache/shenyu-bootstrap
 postgis/postgis
 milvusdb/milvus:v2.5.6
-arm64v8/redis:7
+--platform=linux/arm64 redis:8.0
