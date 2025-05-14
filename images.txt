@@ -24,3 +24,4 @@ milvusdb/milvus:v2.5.6
 --platform=linux/arm64 arm64v8/openjdk:8u141
 --platform=linux/arm64 arm64v8/nginx:1.27
 --platform=linux/arm64 arm64v8/postgres:16
+--platform=linux/arm64 minio/minio:latest
