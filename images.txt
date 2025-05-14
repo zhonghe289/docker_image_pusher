@@ -21,3 +21,4 @@ apache/shenyu-bootstrap
 postgis/postgis
 milvusdb/milvus:v2.5.6
 --platform=linux/arm64 redis:8.0
+--platform=linux/arm64 arm64v8/openjdk:8u141
