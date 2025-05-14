@@ -21,3 +21,4 @@ apache/shenyu-bootstrap
 postgis/postgis
 milvusdb/milvus:v2.5.6
 arm64v8/redis:6.2.18-bookworm
+arm64v8/postgres:13
