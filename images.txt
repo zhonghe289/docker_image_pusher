@@ -21,5 +21,5 @@ apache/shenyu-bootstrap
 postgis/postgis
 milvusdb/milvus:v2.5.6
 --platform=linux/arm64 redis:8.0
---platform=linux/arm64 postgres:14-alpine
+--platform=linux/arm/v6 postgres:14-alpine
 --platform=linux/arm64 minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
