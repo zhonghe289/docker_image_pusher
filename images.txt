@@ -22,3 +22,4 @@ postgis/postgis
 milvusdb/milvus:v2.5.6
 arm64v8/redis:6.2.18-bookworm
 arm64v8/postgres:13
+docker pull minio/minio:RELEASE.2025-04-22T22-12-26Z-cpuv1
