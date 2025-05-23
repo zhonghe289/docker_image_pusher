@@ -26,3 +26,4 @@ milvusdb/milvus:v2.5.6
 --platform=linux/arm64 arm64v8/postgres:16
 --platform=linux/arm64 minio/minio:latest
 --platform=linux/arm64 portainer/portainer:alpine
+--platform=linux/arm64 n8nio/n8n:latest
