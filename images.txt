@@ -27,3 +27,5 @@ milvusdb/milvus:v2.5.6
 --platform=linux/arm64 minio/minio:latest
 --platform=linux/arm64 portainer/portainer:alpine
 --platform=linux/arm64 n8nio/n8n:latest
+--platform=linux/arm64 jenkins/jenkins:jdk17
+--platform=linux/arm64 bitnami/harbor-portal:latest
