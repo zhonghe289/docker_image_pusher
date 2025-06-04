@@ -31,3 +31,5 @@ n8nio/n8n:latest
 --platform=linux/arm64 jenkins/jenkins:jdk17
 --platform=linux/arm64 bitnami/harbor-portal:latest
 --platform=linux/arm64 redis/redis-stack:7.2.0-v17
+--platform=linux/arm64 jenkins/jenkins:latest
+--platform=linux/arm64 gitlab/gitlab-ce:nightly
