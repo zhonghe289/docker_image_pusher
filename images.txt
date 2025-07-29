@@ -36,3 +36,4 @@ n8nio/n8n:latest
 --platform=linux/arm64 flink:1.20.2
 --platform=linux/arm64 camunda/camunda-bpm-platform:7.24.0-SNAPSHOT
 --platform=linux/arm64 camunda/web-modeler-webapp:SNAPSHOT
+--platform=linux/arm64 certbot/certbot:latest
