@@ -39,3 +39,4 @@ n8nio/n8n:latest
 --platform=linux/arm64 certbot/certbot:latest
 --platform=linux/arm64 flink:latest
 --platform=linux/arm64 kicbase/stable:v0.0.47
+--platform=linux/arm64 apache/kafka:4.0.0
