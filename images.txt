@@ -40,3 +40,5 @@ n8nio/n8n:latest
 --platform=linux/arm64 flink:latest
 --platform=linux/arm64 kicbase/stable:v0.0.47
 --platform=linux/arm64 apache/kafka:4.0.0
+--platform=linux/arm64 confluentinc/cp-kafka:7.8.0
+--platform=linux/arm64 provectuslabs/kafka-ui:latest
